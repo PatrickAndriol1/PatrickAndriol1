@@ -49,4 +49,4 @@
 
 ##
 
-![snake gif](https://github.com/PatrickAndriol1/PatrickAndriol1/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/PatrickAndriol1/PatrickAndriol1/blob/output/github-contribution-grid-snake.svg)
